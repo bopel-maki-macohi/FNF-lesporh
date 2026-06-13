@@ -1,6 +1,8 @@
 RECOVER_**.fla
 **.swf
 
-dev/songs/**/Backups/**
+dev/songs/**/Backup/**
 dev/songs/**/Ableton Project Info/**
 dev/songs/**/Desktop.ini
+dev/songs/**.**
+# dev/songs/**.**.asd
